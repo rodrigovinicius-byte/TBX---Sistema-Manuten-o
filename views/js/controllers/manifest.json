@@ -1,0 +1,17 @@
+{
+  "name": "Manutenção Grupo TBX",
+  "short_name": "TBX App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b132b",
+  "theme_color": "#0b132b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
